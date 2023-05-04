@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Quantified Self",
+      "desc": "Fully fledged CRUD Activity Tracking App by making the use of different types of charts. Built using Python, HTML, CSS, JavaScipt, SQLite",
+      "image": "QS",
+      "category": "web",
+      "links": {
+        "view": "https://replit.com/@daemon45/QuantifiedSelfApp?v=1",
+        "code": "https://github.com/exorcist45/Quantified_Self"
+      }
+    },
+    {
+      "name": "SPPU Engg Prep",
+      "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+      "image": "sppuprepandroid",
+      "category": "android",
+      "links": {
+        "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+        "code": "https://github.com/jigar-sable/sppu-prep-android"
+      }
+    }
+
+  ]
